@@ -1,6 +1,9 @@
 {
   "donors": [
+    1327137572,
     "duckererer"
   ],
-  "users": {}
+  "users": {
+    "1327137572": "ygehr"
+  }
 }
