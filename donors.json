@@ -1,11 +1,10 @@
 {
-  "donors": [
-    1327137572,
-    8523091776,
-    "Mandy_BrawlStars",
-    "duckererer"
-  ],
-  "users": {
-    "1327137572": "ygehr"
-  }
+  "version": 2,
+  "hashes": [
+    "065b7ce1e0f6f587f17b0cb4adae7f184b841774541b1a8ac135c3238090f107",
+    "4375d272afaddf216a534220ff14e510c2774e8dfb1df982114cb0d3791ca64f",
+    "54789ccec8508112799222e6643e842423693cf867a59aa16f5f145fdf0ae6f0",
+    "93f05d9aed7ff4e30f323d0c70918edd5ceb2eaf65532fd2df72c179402c2844",
+    "b22c9f09deb3a90e513144836b6461fdb46e2e90e190706d952879750c8361a4"
+  ]
 }
